@@ -4,3 +4,7 @@ const person = {
 };
 
 console.log(person.name);
+
+// New code
+const sum = (a, b) => a + b;
+console.log(sum(5, 3));
